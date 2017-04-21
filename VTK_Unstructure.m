@@ -1,3 +1,5 @@
+% Author: Mostafa Hadavand, hadavand@ualberta.ca
+% Copyright: Mostafa Hadavand
 function VTK_Unstructure(Layers,Top_Col, Base_Col, GridFl,Model,Dir, Name_Grid)
 
 % Note this code is based on onlap
